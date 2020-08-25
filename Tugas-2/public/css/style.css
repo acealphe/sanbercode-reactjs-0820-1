@@ -9,14 +9,9 @@ header{
 section{
     background-color: white;
     display: block;
-    width: 85%;
+    width: 95%;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px 50px 20px 50px;
-}
-div#article-list p{
-    padding: 0px 0px 15px 0px;
-    border-bottom: dashed;
 }
 
 p.title{
