@@ -1,0 +1,59 @@
+body{
+    background-image: url("../img/pattern.jpg");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    display:initial;
+}
+section{
+    background-color: white;
+    display: block;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.title{
+    font-weight: bold; text-align: center;
+}
+span.bold {
+    font-weight: bold;
+}
+span.normal {
+    font-weight: normal;
+}
+ol.normal {
+    font-weight: normal;
+}
+
+nav.navbar{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-color: white;
+}
+nav.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav.navbar li{
+    display: inline;
+}
+nav.navbar li a{
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+}
+nav.navbar li img{
+    float: left;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    position: sticky;
+}

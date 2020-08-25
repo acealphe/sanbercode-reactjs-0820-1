@@ -1,7 +1,6 @@
 Data Peserta Sanbercode Bootcamp ReactJS
 1. Nama: Ryan Reinardi Wijaya
 2. Email: ryan.reinardi@gmail.com
-3. Sistem Operasi yang digunakan: Windows
 3. Sistem Operasi yang digunakan: Windows 10
 4. Akun Gitlab: @acealphe
 5. Akun Telegram: @ryanrdi
